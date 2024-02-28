@@ -1,0 +1,30 @@
+[0.768s] Invoking command in '/home/cse_st/Desktop/robotics/src/broadcaster_listener': PYTHONPATH=/home/cse_st/Desktop/robotics/build/broadcaster_listener/prefix_override:/home/cse_st/Desktop/robotics/install/broadcaster_listener/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/broadcaster_listener build --build-base /home/cse_st/Desktop/robotics/build/broadcaster_listener/build install --record /home/cse_st/Desktop/robotics/build/broadcaster_listener/install.log --single-version-externally-managed
+[0.930s] running egg_info
+[0.930s] writing ../../build/broadcaster_listener/broadcaster_listener.egg-info/PKG-INFO
+[0.930s] writing dependency_links to ../../build/broadcaster_listener/broadcaster_listener.egg-info/dependency_links.txt
+[0.931s] writing entry points to ../../build/broadcaster_listener/broadcaster_listener.egg-info/entry_points.txt
+[0.931s] writing requirements to ../../build/broadcaster_listener/broadcaster_listener.egg-info/requires.txt
+[0.931s] writing top-level names to ../../build/broadcaster_listener/broadcaster_listener.egg-info/top_level.txt
+[0.932s] reading manifest file '../../build/broadcaster_listener/broadcaster_listener.egg-info/SOURCES.txt'
+[0.959s] adding license file 'LICENSE'
+[0.959s] writing manifest file '../../build/broadcaster_listener/broadcaster_listener.egg-info/SOURCES.txt'
+[0.959s] running build
+[0.960s] running build_py
+[0.960s] copying broadcaster_listener/turtle_tf2_listener.py -> /home/cse_st/Desktop/robotics/build/broadcaster_listener/build/lib/broadcaster_listener
+[0.960s] running install
+[0.960s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.960s]   warnings.warn(
+[0.961s] running install_lib
+[0.962s] copying /home/cse_st/Desktop/robotics/build/broadcaster_listener/build/lib/broadcaster_listener/turtle_tf2_listener.py -> /home/cse_st/Desktop/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener
+[0.962s] byte-compiling /home/cse_st/Desktop/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener/turtle_tf2_listener.py to turtle_tf2_listener.cpython-310.pyc
+[0.963s] running install_data
+[0.963s] running install_egg_info
+[0.965s] removing '/home/cse_st/Desktop/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener-0.0.0-py3.10.egg-info' (and everything under it)
+[0.965s] Copying ../../build/broadcaster_listener/broadcaster_listener.egg-info to /home/cse_st/Desktop/robotics/install/broadcaster_listener/lib/python3.10/site-packages/broadcaster_listener-0.0.0-py3.10.egg-info
+[0.966s] running install_scripts
+[0.980s] Installing dynamic_frame_tf2_broadcaster script to /home/cse_st/Desktop/robotics/install/broadcaster_listener/lib/broadcaster_listener
+[0.980s] Installing fixed_frame_tf2_broadcaster script to /home/cse_st/Desktop/robotics/install/broadcaster_listener/lib/broadcaster_listener
+[0.980s] Installing turtle_tf2_broadcaster script to /home/cse_st/Desktop/robotics/install/broadcaster_listener/lib/broadcaster_listener
+[0.980s] Installing turtle_tf2_listener script to /home/cse_st/Desktop/robotics/install/broadcaster_listener/lib/broadcaster_listener
+[0.980s] writing list of installed files to '/home/cse_st/Desktop/robotics/build/broadcaster_listener/install.log'
+[0.999s] Invoked command in '/home/cse_st/Desktop/robotics/src/broadcaster_listener' returned '0': PYTHONPATH=/home/cse_st/Desktop/robotics/build/broadcaster_listener/prefix_override:/home/cse_st/Desktop/robotics/install/broadcaster_listener/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/broadcaster_listener build --build-base /home/cse_st/Desktop/robotics/build/broadcaster_listener/build install --record /home/cse_st/Desktop/robotics/build/broadcaster_listener/install.log --single-version-externally-managed
